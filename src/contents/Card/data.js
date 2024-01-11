@@ -1,9 +1,10 @@
-const data = [
+const cardData = [
     {
         num:1,
         price:2312.3,
         title:"Next Payout",
-        orders:23
+        orders:23,
+        payoutDate:" Today, 04:00PM"
     },
     {
         num:2,
@@ -20,4 +21,4 @@ const data = [
 
 
 ]
-export default data
+export default cardData;

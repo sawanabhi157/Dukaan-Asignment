@@ -1,5 +1,5 @@
 import React from 'react'
-import userImage from '../../../assets/userImage/Navbar/Image.png'
+import userImage from '@assets/images/User.png'
 import { FaChevronDown } from "react-icons/fa";
 
 import style from './Navtop.module.scss'

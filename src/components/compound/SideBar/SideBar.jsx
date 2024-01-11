@@ -1,8 +1,8 @@
 import NavTop from "../../atoms/NavTop/NavTop";
 import NavOption from "../../atoms/NavOption/NavOption";
 import CreditCount from "../../atoms/CreditCount/CreditCount";
-import style from './SideBar.module.scss'
-import data from './Content/data';
+import style from './SideBar.module.scss';
+import data from '@content/Sidebar/data.js';
 function SideBar() {
   return (
     <div className={style.sidebar}>
