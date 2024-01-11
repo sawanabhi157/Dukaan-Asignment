@@ -1,0 +1,19 @@
+.dashboard{
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .upperContainer{
+        height: 26%;
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: yellow;
+        flex-direction: column;
+    }
+}
